@@ -649,7 +649,7 @@
         "uuid": "56359375-67a4-457c-8374-db7d9a21c1d9"
       }
     ],
-    "used_designators": "TH1-2,RV3,Type\\-B1,D1,D4-8,D11-14,U1-3,C1-2,VCC1,J1-14,K2-3,D+1,SW1,SW10-15,D\\-1,BT1-4,BZ1,GND1,#PWR1-3,#PWR13-51,M1-3,R1-2,R17-47,VRX1,Q1-3",
+    "used_designators": "TH1-2,RV3,Type\\-B1,D1-2,D4-8,D11-14,U1-3,C1-2,VCC1,J1-14,K2-3,D+1,SW1,SW10-15,D\\-1,BT1-4,BZ1,GND1,#PWR1-7,#PWR13-51,M1-3,R1-7,R17-47,VRX1,Q1-3",
     "variants": []
   },
   "sheets": [
